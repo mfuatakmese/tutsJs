@@ -25,4 +25,3 @@ console.log(sorted);
 // reverse diziyi ters çevirir
 var reversed = allNames.reverse();
 console.log(reversed);
-
